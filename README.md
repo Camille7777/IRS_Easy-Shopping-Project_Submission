@@ -18,7 +18,7 @@
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items | Email |
 | :------------ |:---------------:| :-----| :-----|
 | Lin Yuyang | A0207526H | CV API Mycroft Integration| e0445621@u.nus.edu |
-| Mao Yue Jingxian | A0231531W | Mycroft Testing Integration | e0703563@u.nus.edu |
+| Mao Yuejingxian | A0231531W | Mycroft Testing Integration | e0703563@u.nus.edu |
 | Zhong Yuting | A0231389Y | Mycroft Integration Raspberry Pi | e0703421@u.nus.edu |
 
 ---
