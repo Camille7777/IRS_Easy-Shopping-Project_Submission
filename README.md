@@ -9,6 +9,8 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
+`TBC`
+
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -23,26 +25,25 @@
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+`TBC`
+<!-- [![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
 
 Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
+More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations") -->
 
 ---
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+`Refer to [User Guidelines](/ProjectReport/User Guidelines.pdf/) for details.`
 
-### Refer to [User Guidelines](/ProjectReport/User Guidelines.pdf) for details.
+<!-- ### Refer to [User Guidelines](/ProjectReport/User Guidelines.pdf) for details. -->
 
 
 ---
 ## SECTION 6 : MISCELLANEOUS
 
 `Refer to Github Folder: Miscellaneous`
-
-### TBC
 
 ---
 
