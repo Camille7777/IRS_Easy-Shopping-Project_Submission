@@ -9,17 +9,17 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
-`TBC`
+### Project code refers to [Easy Shopping Skill](https://github.com/yuyang0828/sandbox-git-skill) for details.
 
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
+| Official Full Name  | Student ID (MTech Applicable)  | Work Items | Email |
 | :------------ |:---------------:| :-----| :-----|
-| Lin Yuyang | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
-| Mao Yue Jingxian | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
-| Zhong Yuting | A0231389Y | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0703421@u.nus.edu |
+| Lin Yuyang | A0207526H | CV API Mycroft Integration| e0445621@u.nus.edu |
+| Mao Yue Jingxian | A0231531W | Mycroft Testing Integration | e0703563@u.nus.edu |
+| Zhong Yuting | A0231389Y | Mycroft Integration Raspberry Pi | e0703421@u.nus.edu |
 
 ---
 
