@@ -35,7 +35,7 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 ## SECTION 5 : USER GUIDE
 
-### Refer to [User Guidelines](/IRS_Easy-Shopping-Project_Submission/ProjectReport/User Guidelines.pdf/) for details.
+### Refer to [User Guidelines](/IRS_Easy-Shopping-Project_Submission/ProjectReport/) for details.
 
 <!-- ### Refer to [User Guidelines](/ProjectReport/User Guidelines.pdf) for details. -->
 
